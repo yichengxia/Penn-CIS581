@@ -1,0 +1,3 @@
+Requirements for CycleGAN-part code:
+
+Since all codes are notebooks running on Colab, there is no local toolbox or library required.

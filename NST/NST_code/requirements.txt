@@ -1,0 +1,36 @@
+Requirements for NST-part code:
+
+Since the code (NST.ipynb) runs on Colab, there is no local toolbox or library required.
+
+Here is a list of imports for our code (in notebook):
+
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+import torch.optim as optim
+from PIL import Image
+import matplotlib.pyplot as plt
+import torchvision.transforms as transforms
+from torchvision.models import vgg19, VGG19_Weights
+import copy
+import os
+import numpy as np
+import tensorflow as tf
+from tensorflow import keras
+from tensorflow.keras.applications import vgg19
+import numpy as np
+import torch
+import torchvision.transforms as transforms
+from torch.utils.data import Dataset
+from torch.utils.data import DataLoader
+import torch.nn as nn
+import torch.nn.functional as F
+import torchvision.transforms as transforms
+from torchvision.utils import make_grid
+from PIL import Image
+import os
+import glob
+import itertools
+from tqdm.notebook import tqdm
+import matplotlib.pyplot as plt
+import cv2
