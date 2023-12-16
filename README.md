@@ -32,3 +32,9 @@ in both NST and CycleGAN.
 * [NST](NST/NST_code/README.md)
 
 * [CycleGAN](Cycle_GAN/README.md)
+
+## requirements.txt
+
+* [NST](NST/NST_code/requirments.txt)
+
+* [CycleGAN](Cycle_GAN/requirments.txt)
