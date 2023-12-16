@@ -22,7 +22,11 @@ in both NST and CycleGAN.
 ```
 .
 ├── NST
+│   ├── NST_code
+│   └── NST_result
 ├── Cycle_GAN
+│   ├── notebooks
+│   └── videos
 ├── Final_Project_Report.pdf
 └── Final_Project_Video.mp4
 ```
@@ -35,6 +39,6 @@ in both NST and CycleGAN.
 
 ## requirements.txt
 
-* [NST](NST/NST_code/requirments.txt)
+* [NST](NST/NST_code/requirements.txt)
 
-* [CycleGAN](Cycle_GAN/requirments.txt)
+* [CycleGAN](Cycle_GAN/requirements.txt)
