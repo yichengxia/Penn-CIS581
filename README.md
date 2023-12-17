@@ -13,7 +13,7 @@ in both NST and CycleGAN.
 
 ## Presentation
 
-* [Video Presentation](Final_Project_Video.mp4)
+* [Video Presentation](https://www.youtube.com/watch?v=o0w-HiS9-YA)
 
 * [Detailed Report](Final_Project_Report.pdf)
 
