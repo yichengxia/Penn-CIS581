@@ -1,4 +1,4 @@
-# Exploring Image Style Transfer: From Neural Style Transfer to CycleGAN
+# Image Style Transfer: From Neural Style Transfer to CycleGAN
 
 In this project, we implement two deep learning based methods for image style transfer.
 
@@ -27,8 +27,7 @@ in both NST and CycleGAN.
 ├── Cycle_GAN
 │   ├── notebooks
 │   └── videos
-├── Final_Project_Report.pdf
-└── Final_Project_Video.mp4
+└── Final_Project_Report.pdf
 ```
 
 ## README
